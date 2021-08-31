@@ -6,7 +6,7 @@ github: https://github.com/aleconcyber
 about: I am a Cyber Security Analyst
 #disqus_shortname: programming
 #google_analytics: UA-31048387-6
-#avatar_url: /static/img/me.jpg
+avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
