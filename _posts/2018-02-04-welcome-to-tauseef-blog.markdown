@@ -9,4 +9,4 @@ Hi, I am `Alec`, a *Cyber Security Analyst* and a *Technology Enthusiast* from A
 
 # What is this site about?
 Starting a blog and creating an online presense, to share my learnings was always on my todo list. Finally today I decided to start doing it.
-I want to use this site as a place to share my experiences with cyber security problem solving, hoping someone will benefit from the findings.
+I want to use this site as a place to share my experiences with cyber security, hoping someone will benefit from what I've learned.
