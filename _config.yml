@@ -1,11 +1,11 @@
 title: Alec on Cyber
 description: My own notes on how to perform Cyber Security.
 # author: Alec on Cyber
-email: ask_me_later@gmail.com
+# email: none@none.com
 github: https://github.com/aleconcyber
 about: I am a Cyber Security Analyst
 #disqus_shortname: programming
-#google_analytics: UA-31048387-6
+#google_analytics: UA-1111111-1
 avatar_url: /static/img/avatar.png
 
 enableTags: true
@@ -18,11 +18,11 @@ collections:
 
 social:
 #    - icon: fa-facebook
-#      link: "https://www.facebook.com/tjamadar"
+#      link: "https://www.facebook.com/"
 #    - icon: fa-twitter
 #      link: "https://twitter.com/aleconcyber"
 #    - icon: fa-linkedin
-#      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+#      link: "https://www.linkedin.com/in/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
