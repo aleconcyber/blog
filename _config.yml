@@ -42,7 +42,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://aleconcyber.github.io"
+url: "https://aleconcyber.github.io/blog_v1"
 baseurl: ""
 paginate: 20
 per_page: 20
